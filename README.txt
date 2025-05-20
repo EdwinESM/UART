@@ -1,0 +1,1 @@
+Usamos un Arduino como emisor de 7 diferentes mensajes a través de UART, donde los mensajes serán recibidos por la Raspberry y se imprimirán en la pantalla al finalizar la transmisión.
